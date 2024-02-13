@@ -1,5 +1,5 @@
 <h1>Implement Design from scratch</h2>
-<p>During this project I'm given a design designed by <strong>Nicolas Philippot, UI/UX designer and Guillaume Salva, CTO at Holberton School</strong> From Hobelton School so that I can implement it</p>
+<p>During this project I'm given a design designed by <strong>Nicolas Philippot, UI/UX designer at Holberton School</strong> From Hobelton School so that I can implement it</p>
 <p>During this task I'm not allowed to use any Frame work it is only: </p>
 <ul>
 <li><abbr title="HyperText Markup language">HTML </abbr></li>

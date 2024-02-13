@@ -9,4 +9,4 @@
 </ul>
 
 At the End of this project I will be able to utilitize the above technology to implement everydesign from Scratch
-![alt text](image.png)
+![alt text](images/image.png)
